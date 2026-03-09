@@ -1,8 +1,2 @@
-# 1. 建立檔案
-echo "streamlit" > requirements.txt
-echo "pandas" >> requirements.txt
-
-# 2. 推送到 GitHub
-git add requirements.txt
-git commit -m "Add requirements for deployment"
-git push
+streamlit
+pandasS
